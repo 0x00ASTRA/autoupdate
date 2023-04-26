@@ -8,7 +8,7 @@ The script requires an Ubuntu based distro to run. It was written and tested on 
 
 ## Usage
 
-To use the script, add `./autoupdate/autoupdate.sh` to your ~/.bashrc or ~/.zshrc file. Restart your terminal and voila!
+To use the script, add `./autoupdate/autoupdate.sh` to your `~/.bashrc` or `~/.zshrc` file. Restart your terminal and voila!
 
 ## Logs
 
